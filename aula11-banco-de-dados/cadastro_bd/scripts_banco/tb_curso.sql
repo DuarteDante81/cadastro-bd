@@ -42,10 +42,10 @@ CREATE TABLE `tb_curso` (
 --
 
 INSERT INTO `tb_curso` (`id_curso`, `ds_curso`, `nr_carga_horaria`, `dt_inicio`) VALUES
-(1, 'Análise e Desenvolvimento de Sistemas', 2000, '2014-02-01'),
-(2, 'Gestão de Recursos Humanos', 1500, '2007-02-01'),
-(3, 'Gestão Comercial', 2000, '2009-02-01'),
-(4, 'Marketing', 2000, '2009-02-01');
+(1, 'Análise e Desenvolvimento de Sistemas', 2000, '2023-11-16'),
+(2, 'Gestão de Recursos Humanos', 1500, '2023-11-16'),
+(3, 'Gestão Comercial', 2000, '2023-11-16'),
+(4, 'Marketing', 2000, '2023-11-16');
 
 --
 -- Índices de tabelas apagadas

@@ -49,7 +49,7 @@
   mysqli_close($link);
 ?>  
 	<br>
-	<a href="cadastro_curso.php">Cadastrar novo curso</a>
+	<a href="../curso/cadastro_curso.php">Cadastrar novo curso</a>
 	<br>
 	<a href="../index.html">Menu Principal</a>   
         </body>
